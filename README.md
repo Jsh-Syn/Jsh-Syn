@@ -20,5 +20,5 @@ Here's a glimpse of what I've been working on:
 ### Get in Touch
 
 Feel free to reach out if you want to collaborate on a project, or simply to chat about tech, music, games, or light novels!
-- 📧 [sayenmarkjoshua@gmail.com](mailto:sayenmarkjoshua@gmail.com)
+- 📧 [Email](mailto:sayenmarkjoshua@gmail.com)
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mark-joshua-sayen-853010258/))
