@@ -1,3 +1,24 @@
-- 👋 Hi, I’m Joshua!
-- 👀 I’m interested in music, games, and light novels.
-- 🌱 I’m currently learning Dart, Flutter framework, Python, and MySQL.
+# Hi there! 👋 I'm Joshua
+
+### About Me
+
+I'm passionate about technology and creativity. My interests span across music, games, and light novels, and I also enjoy exploring with software development. 
+
+### Currently Learning
+
+I am on a journey to enhance my skills in:
+- **Dart & Flutter**: Building cross-platform mobile applications with sleek UI/UX.
+- **Python**: Diving into backend development, data analysis, and automation.
+- **MySQL**: Managing databases efficiently to support robust applications.
+
+### Projects
+
+Here's a glimpse of what I've been working on:
+- **EMR Mobile Application**: A comprehensive electronic medical records system built with Dart and Flutter. This app aims to streamline patient management and medical record keeping for healthcare providers.
+  - [EMR Mobile Application Repository]([https://github.com/your-username/emr-mobile-application](https://github.com/Jsh-Syn/EMR-Mobile-App))
+
+### Get in Touch
+
+Feel free to reach out if you want to collaborate on a project, or simply to chat about tech, music, games, or light novels!
+- 📧 [sayenmarkjoshua@gmail.com](mailto:sayenmarkjoshua@gmail.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mark-joshua-sayen-853010258/))
