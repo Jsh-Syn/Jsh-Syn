@@ -15,7 +15,7 @@ I am on a journey to enhance my skills in:
 
 Here's a glimpse of what I've been working on:
 - **EMR Mobile Application**: A comprehensive electronic medical records system built with Dart and Flutter. This app aims to streamline patient management and medical record keeping for healthcare providers.
-  - [EMR Mobile Application Repository]([https://github.com/your-username/emr-mobile-application](https://github.com/Jsh-Syn/EMR-Mobile-App))
+  - [EMR Mobile Application Repository](https://github.com/Jsh-Syn/EMR-Mobile-App)
 
 ### Get in Touch
 
