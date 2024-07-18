@@ -25,5 +25,3 @@ Feel free to reach out if you want to collaborate on a project, or simply to cha
 
 
     <img src="https://github-readme-stats.vercel.app/api?username=Jsh-Syn&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="Jsh-Syn's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jsh-Syn&theme=nord&hide_border=true" alt="Jsh-Syn's GitHub Stats" />
-
