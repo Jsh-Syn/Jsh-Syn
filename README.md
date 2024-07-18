@@ -7,6 +7,7 @@ I'm passionate about technology and creativity. My interests span across music, 
 ### Currently Learning
 
 I am on a journey to enhance my skills in:
+- **HTML, CSS, & JavaScript**: Diving into the world of web development.
 - **Dart & Flutter**: Building cross-platform mobile applications with sleek UI/UX.
 - **Python**: Diving into backend development, data analysis, and automation.
 - **MySQL**: Managing databases efficiently to support robust applications.
