@@ -14,7 +14,9 @@ I am on a journey to enhance my skills in:
 
 ### Projects
 
-Here's a glimpse of what I've been working on:
+Here's a glimpse of what I've been working on:'
+- **BitBar Website**: A simple project made using HTML, CSS, and Bootstrap. It is a website dedicated in marketing the BitBar company brand.
+  - [BitBar Repository](https://github.com/Jsh-Syn/BitBar)
 - **EMR Mobile Application**: A comprehensive electronic medical records system built with Dart and Flutter. This app aims to streamline patient management and medical record keeping for healthcare providers.
   - [EMR Mobile Application Repository](https://github.com/Jsh-Syn/EMR-Mobile-App)
 
